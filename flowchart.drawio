@@ -1,0 +1,670 @@
+<mxfile host="app.diagrams.net" modified="2023-11-30T05:14:20.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xkQiyFW5VYA_mL0q6Yhp" version="22.1.5" type="device" pages="6">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1459" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vgVdX3JxwbWIxmguaZ93-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-0" value="&#xa;&lt;pre style=&quot;margin: 0px 0px 4px; padding: 10px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); background: var(--cib-color-syntax-background-surface); border-radius: var(--cib-border-radius-large); color: rgb(17, 17, 17); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: var(--cib-type-body1-font-weight); font-variation-settings: var(--cib-type-body1-font-variation-settings);&quot; class=&quot;language-plaintext&quot;&gt;Bắt đầu&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vgVdX3JxwbWIxmguaZ93-3" target="vgVdX3JxwbWIxmguaZ93-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-3" value="&lt;br&gt;&lt;pre style=&quot;margin: 0px 0px 4px; padding: 10px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); background: var(--cib-color-syntax-background-surface); border-radius: var(--cib-border-radius-large); color: rgb(17, 17, 17); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: var(--cib-type-body1-font-weight); font-variation-settings: var(--cib-type-body1-font-variation-settings);&quot; class=&quot;language-plaintext&quot;&gt;Khai báo biến &lt;/code&gt;&lt;/pre&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="94" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vgVdX3JxwbWIxmguaZ93-4" target="vgVdX3JxwbWIxmguaZ93-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-4" value="&#xa;&lt;pre style=&quot;margin: 0px 0px 4px; padding: 10px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); background: var(--cib-color-syntax-background-surface); border-radius: var(--cib-border-radius-large); color: rgb(17, 17, 17); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: var(--cib-type-body1-font-weight); font-variation-settings: var(--cib-type-body1-font-variation-settings);&quot; class=&quot;language-plaintext&quot;&gt;Khai báo con trỏ cho biến&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="121" y="420" width="266" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vgVdX3JxwbWIxmguaZ93-6" target="vgVdX3JxwbWIxmguaZ93-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-6" value="&#xa;&lt;pre style=&quot;margin: 0px 0px 4px; padding: 10px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); background: var(--cib-color-syntax-background-surface); border-radius: var(--cib-border-radius-large); color: rgb(17, 17, 17); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: var(--cib-type-body1-font-weight); font-variation-settings: var(--cib-type-body1-font-variation-settings);&quot; class=&quot;language-plaintext&quot;&gt;In giá trị và địa chỉ của biến sử dụng biến&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="56" y="550" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vgVdX3JxwbWIxmguaZ93-8" target="vgVdX3JxwbWIxmguaZ93-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-8" value="&#xa;&lt;pre style=&quot;margin: 0px 0px 4px; padding: 10px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); background: var(--cib-color-syntax-background-surface); border-radius: var(--cib-border-radius-large); color: rgb(17, 17, 17); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: var(--cib-type-body1-font-weight); font-variation-settings: var(--cib-type-body1-font-variation-settings);&quot; class=&quot;language-plaintext&quot;&gt;In giá trị và địa chỉ của biến sử dụng con trỏ&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="690" width="436" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgVdX3JxwbWIxmguaZ93-10" value="kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="194" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="quRwbBUF6Z97WIOr4HNH" name="Trang-2">
+    <mxGraphModel dx="1459" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-1" target="73H9lzcgkQ6jl3NK9D3i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-2" target="73H9lzcgkQ6jl3NK9D3i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-2" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Declare two integer variables&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;a&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;b&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-390" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-7" target="73H9lzcgkQ6jl3NK9D3i-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-7" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Print the values of&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;a&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;b&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-9" target="73H9lzcgkQ6jl3NK9D3i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-9" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Calculate and print the difference between&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;a&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;b&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-100" width="170" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-11" target="73H9lzcgkQ6jl3NK9D3i-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-11" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Declare a pointer&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;ptr&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-13" target="73H9lzcgkQ6jl3NK9D3i-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-13" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Assign&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;ptr&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;to the address of&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;a&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="125" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-15" target="73H9lzcgkQ6jl3NK9D3i-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-15" value="&lt;br&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;declare a temporary variable&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;temp&lt;/code&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;and assign the value of&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;ptr&lt;/code&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;to&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;temp&lt;/code&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="160" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-17" target="73H9lzcgkQ6jl3NK9D3i-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-17" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Assign the value of&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;ptr&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;with the value of&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;b&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-120" width="160" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-21" value="&#xa;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Print the values of&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;border: 1px solid var(--cib-color-stroke-neutral-primary); font-size: var(--cib-type-body1-font-size); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background: var(--cib-color-syntax-background-surface); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(17, 17, 17); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border-radius: var(--cib-border-radius-medium);&quot;&gt;a&lt;/code&gt;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;border: 1px solid var(--cib-color-stroke-neutral-primary); font-size: var(--cib-type-body1-font-size); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background: var(--cib-color-syntax-background-surface); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(17, 17, 17); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border-radius: var(--cib-border-radius-medium);&quot;&gt;b&lt;/code&gt;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;after swapping&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-290" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="73H9lzcgkQ6jl3NK9D3i-25" target="73H9lzcgkQ6jl3NK9D3i-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-25" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Calculate and print the difference between&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;a&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;b&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;after swapping&lt;/span&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-510" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="73H9lzcgkQ6jl3NK9D3i-26" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-660" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JbmgorXhj6E9o4VCBK6d" name="Trang-3">
+    <mxGraphModel dx="1945" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-1" target="cEXb8vYJ6e5T9_D53L2O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-2" target="cEXb8vYJ6e5T9_D53L2O-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-2" value="&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Khai báo hai chuỗi&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;str1&lt;/code&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;và&lt;/span&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.7); color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-size: var(--cib-type-body1-font-size); text-align: start; line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium);&quot;&gt;str2&lt;/code&gt;&lt;br&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="310" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-4" target="cEXb8vYJ6e5T9_D53L2O-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-4" value="&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;Nhập giá trị cho&amp;nbsp;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;str1&lt;/code&gt;&amp;nbsp;và&amp;nbsp;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;str2&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="485" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-6" target="cEXb8vYJ6e5T9_D53L2O-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;Khai báo con trỏ&amp;nbsp;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;ptr&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="665" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-8" target="cEXb8vYJ6e5T9_D53L2O-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-8" value="&#xa;&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;Gán&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;ptr&lt;/code&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;cho địa chỉ của&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;str1&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="880" width="220" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-10" target="cEXb8vYJ6e5T9_D53L2O-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-10" value="&#xa;&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;Sử dụng con trỏ để tính và in ra độ dài của&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;str1&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1080" width="160" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-13" target="cEXb8vYJ6e5T9_D53L2O-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-13" value="&#xa;&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;Gán&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;ptr&lt;/code&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;cho địa chỉ của&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;str2&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1280" width="140" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-15" target="cEXb8vYJ6e5T9_D53L2O-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-15" value="&lt;br&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;sử dụng con trỏ để tính và in ra độ dài của&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;str2&lt;/code&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1470" width="140" height="78.13" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-17" target="cEXb8vYJ6e5T9_D53L2O-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-17" value="&lt;br&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;so sánh độ dài của&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;str1&lt;/code&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;và&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-weight: 500; font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;str2&lt;/code&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="1662" width="171" height="91.8" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cEXb8vYJ6e5T9_D53L2O-19" target="cEXb8vYJ6e5T9_D53L2O-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-19" value="&#xa;&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;In ra chuỗi có độ dài lớn hơn&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.75" y="1830" width="151.5" height="70.3" as="geometry" />
+        </mxCell>
+        <mxCell id="cEXb8vYJ6e5T9_D53L2O-21" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1950" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tCYQopmdI8kha5UUZYiD" name="Trang-4">
+    <mxGraphModel dx="4863" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="180" />
+              <mxPoint x="355" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eSXfSpkM8L_pBNnr3o_P-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-4" target="eSXfSpkM8L_pBNnr3o_P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eSXfSpkM8L_pBNnr3o_P-8">
+          <mxGeometry x="-0.1497" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-25" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eSXfSpkM8L_pBNnr3o_P-8">
+          <mxGeometry x="-0.1747" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-4" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 1&lt;/strong&gt;: Nhập vào mảng&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="148" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-7" target="eSXfSpkM8L_pBNnr3o_P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-26" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eSXfSpkM8L_pBNnr3o_P-10">
+          <mxGeometry x="-0.1997" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-40" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-7" target="eSXfSpkM8L_pBNnr3o_P-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-7" value="&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 2&lt;/strong&gt;: In ra mảng&lt;/li&gt;&lt;/ul&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="148" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-12" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-9" target="eSXfSpkM8L_pBNnr3o_P-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-45" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-9" value="&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 3&lt;/strong&gt;: Sao chép mảng vào mảng khác&lt;/li&gt;&lt;/ul&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="790" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-16" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-11" target="eSXfSpkM8L_pBNnr3o_P-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-48" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-11" value="&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 4&lt;/strong&gt;: Nhập vào mảng khác, đổi chỗ 2 mảng với nhau&lt;/li&gt;&lt;/ul&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1020" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-18" value="falase" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-15" target="eSXfSpkM8L_pBNnr3o_P-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-52" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-15" target="eSXfSpkM8L_pBNnr3o_P-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-15" value="&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 4&lt;/strong&gt;: Nhập vào mảng khác, đổi chỗ 2 mảng với nhau&lt;/li&gt;&lt;/ul&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1250" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-20" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-17" target="eSXfSpkM8L_pBNnr3o_P-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-57" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-17" target="eSXfSpkM8L_pBNnr3o_P-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-17" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 5&lt;/strong&gt;: Đảo ngược mảng&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1480" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-22" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-19" target="eSXfSpkM8L_pBNnr3o_P-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-62" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-19" target="eSXfSpkM8L_pBNnr3o_P-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-19" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 6&lt;/strong&gt;: Nhập vào 1 ký tự, tìm kiếm ký tự đó trong mảng&lt;/li&gt;&lt;/ul&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="1710" width="201" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-27" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-66" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-21" target="eSXfSpkM8L_pBNnr3o_P-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-21" value="&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&lt;li&gt;&lt;strong&gt;Case 7&lt;/strong&gt;: Thoát&lt;/li&gt;&lt;/ul&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="1970" width="201" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-29" value="true" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="430" as="sourcePoint" />
+            <mxPoint x="580" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-30" value="menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-31" target="eSXfSpkM8L_pBNnr3o_P-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-31" value="choice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-32" target="eSXfSpkM8L_pBNnr3o_P-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-32" value="arr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-33" target="eSXfSpkM8L_pBNnr3o_P-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-33" value="void" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="330" />
+              <mxPoint x="351" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-37" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="635" />
+              <mxPoint x="730" y="360" />
+              <mxPoint x="360" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-39" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-46" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="831" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-49" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-51" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-56" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="1525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="320" as="sourcePoint" />
+            <mxPoint x="350" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eSXfSpkM8L_pBNnr3o_P-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="342.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-61" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="340" as="sourcePoint" />
+            <mxPoint x="350" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSXfSpkM8L_pBNnr3o_P-65" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2020" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ixoRSRCuA4ldsapdonVT" name="Trang-5">
+    <mxGraphModel dx="1216" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-1" target="gRCgdMAbg0nXEi-C_ALC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-3" target="gRCgdMAbg0nXEi-C_ALC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-3" value="arr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-5" target="gRCgdMAbg0nXEi-C_ALC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-5" value="ptr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-7" target="gRCgdMAbg0nXEi-C_ALC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-7" value="gán&amp;nbsp;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); text-align: left;&quot;&gt;ptr&lt;/code&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgba(255, 255, 255, 0.7);&quot;&gt;&amp;nbsp;cho địa chỉ của&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface); color: rgb(17, 17, 17); text-align: left;&quot;&gt;arr&lt;/code&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-9" target="gRCgdMAbg0nXEi-C_ALC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-9" value="&lt;br&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;sử dụng con trỏ để duyệt qua mảng&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="650" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-11" target="gRCgdMAbg0nXEi-C_ALC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-11" value="&#xa;&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 10px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;Tiến hành so sánh và sắp xếp mảng theo 1 trong 3 thuật toán đã được học (ví dụ: sắp xếp nổi bọt, sắp xếp chọn, sắp xếp chèn)&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="820" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRCgdMAbg0nXEi-C_ALC-13" target="gRCgdMAbg0nXEi-C_ALC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-13" value="&lt;br&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;in ra mảng sau khi đã sắp xếp&lt;/span&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1060" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gRCgdMAbg0nXEi-C_ALC-15" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1230" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0YXpAMmSLhxU-XFhtbr6" name="Trang-6">
+    <mxGraphModel dx="5690" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-1" target="kbhKPhg0ARTsmPh2j5q4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-2" target="kbhKPhg0ARTsmPh2j5q4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-2" value="choice,&amp;nbsp; str ,ptr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-4" value="menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-9" target="kbhKPhg0ARTsmPh2j5q4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-14" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-9" target="kbhKPhg0ARTsmPh2j5q4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-9" target="kbhKPhg0ARTsmPh2j5q4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-53" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kbhKPhg0ARTsmPh2j5q4-51">
+          <mxGeometry x="0.7066" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-9" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;Nhập vào chuỗi&lt;/strong&gt;: Nhập giá trị cho chuỗi&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="490" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-13" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-10" target="kbhKPhg0ARTsmPh2j5q4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-10" target="kbhKPhg0ARTsmPh2j5q4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-10" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;In ra chuỗi&lt;/strong&gt;: In ra giá trị của chuỗi&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="650" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-16" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-12" target="kbhKPhg0ARTsmPh2j5q4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-42" value="void" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-12" value="&lt;br&gt;&lt;strong style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;sao chép chuỗi vào một chuỗi khác&lt;/strong&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;: Khai báo một chuỗi mới và sao chép giá trị từ chuỗi ban đầu vào chuỗi mới&lt;/span&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="870" width="215" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-18" value="fasle" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-15" target="kbhKPhg0ARTsmPh2j5q4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-38" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-15" target="kbhKPhg0ARTsmPh2j5q4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-15" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;Nhập vào chuỗi khác, tiến hành thêm chuỗi đó vào chuỗi ban đầu&lt;/strong&gt;: Nhập giá trị cho một chuỗi khác, sau đó nối chuỗi này vào sau chuỗi ban đầu&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="1180" width="215" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-20" value="fasle" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-17" target="kbhKPhg0ARTsmPh2j5q4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-33" value="t" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-36" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kbhKPhg0ARTsmPh2j5q4-33">
+          <mxGeometry x="-0.8433" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-17" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;Nhập vào chuỗi khác, so sánh chuỗi đó với chuỗi ban đầu&lt;/strong&gt;: Nhập giá trị cho một chuỗi khác, sau đó so sánh chuỗi này với chuỗi ban đầu&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1500" width="260" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-22" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-19" target="kbhKPhg0ARTsmPh2j5q4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-27" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-19" target="kbhKPhg0ARTsmPh2j5q4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-19" value="&#xa;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 10px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.7); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;strong&gt;In ra chuỗi đảo ngược&lt;/strong&gt;: Đảo ngược chuỗi và in ra&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1730" width="170" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-24" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-21" target="kbhKPhg0ARTsmPh2j5q4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-21" value="Thoát" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1983.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-23" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1984" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2050" as="sourcePoint" />
+            <mxPoint x="300" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="450" as="targetPoint" />
+            <mxPoint x="630" y="1771.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-26" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1771.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="450" as="sourcePoint" />
+            <mxPoint x="300" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="430" as="sourcePoint" />
+            <mxPoint x="300" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-35" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-37" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1265" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="430" as="sourcePoint" />
+            <mxPoint x="300" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="310" />
+              <mxPoint x="791" y="310" />
+              <mxPoint x="791" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-43" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="460" />
+              <mxPoint x="510" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-46" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbhKPhg0ARTsmPh2j5q4-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbhKPhg0ARTsmPh2j5q4-50" value="void" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
